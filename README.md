@@ -1,2 +1,3 @@
 # wp_memos_plugin
-在 WordPress 中展示 Memos 内容的 wordpress 插件
+* 安装插件后后台设置一下
+* 在页面输入短代码 `[memos_page]` 即可调用说说页面
